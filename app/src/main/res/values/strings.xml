@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AnimationViewSet</string>
+    <string name="confirmviewactivity">ConfirmViewActivity</string>
+</resources>
