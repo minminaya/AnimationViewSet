@@ -1,11 +1,11 @@
 # AnimationViewSet
 用动画集合自定义view
 
-#####ConfirmView
+#####确认按钮ConfirmView
 
 
 ![](https://github.com/minminaya/AnimationViewSet/blob/master/gif/aa.gif?raw=true)
 
-#####ErrorView
+#####错误警告按钮ErrorView
 
 ![](https://github.com/minminaya/AnimationViewSet/blob/master/gif/bbb.gif?raw=true)
