@@ -14,4 +14,10 @@
         android:layout_height="wrap_content"
         android:text="@string/confirmviewactivity"
         android:textSize="16sp" />
+    <Button
+        android:id="@+id/activity_errorview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="errorviewactivity"
+        android:textSize="16sp" />
 </LinearLayout>

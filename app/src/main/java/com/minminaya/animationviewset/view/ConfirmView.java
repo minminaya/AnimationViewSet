@@ -151,6 +151,10 @@ public class ConfirmView extends View {
         resetDegreeAndLeftRightValueAndPaintColor();
         reMeasure();
 
+        //这里其实限定了
+        //mDegree，对应更新值的方法是mLeftValue = (Float) animation.getAnimatedValue();，在下面的监听器里
+        //mLeftValue
+        //mRightValue三个数的取值
         mCircleAnim = ValueAnimator.ofFloat(0, 360);
         mLineLeftAnimator = ValueAnimator.ofFloat(0, this.mRadius / 2f);
         mLineRightAnimator = ValueAnimator.ofFloat(0, this.mRadius / 2f);

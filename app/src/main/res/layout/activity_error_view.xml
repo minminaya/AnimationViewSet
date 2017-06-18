@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context="com.minminaya.animationviewset.activity.ErrorViewActivity">
+
+    <com.minminaya.animationviewset.view.ErrorView
+        android:id="@+id/error_view"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_centerInParent="true" />
+
+    <Button
+        android:layout_alignParentBottom="true"
+        android:id="@+id/error_view_button"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="点击启动" />
+</RelativeLayout>
