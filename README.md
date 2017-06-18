@@ -4,6 +4,6 @@
 #####ConfirmView
 
 
-
+![](https://github.com/minminaya/AnimationViewSet/blob/master/gif/aa.gif?raw=true)
 
 #####ErrorView
